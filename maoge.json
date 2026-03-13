@@ -633,7 +633,7 @@
     {
       "name": "电信网络测试IPV4",
       "type": 0,
-      "url": "http://www.rixin.vip/dxcs.json",
+      "url": "http://www.rixin.vip/dxcs.m3u",
       "playerType": 2
 
        }
