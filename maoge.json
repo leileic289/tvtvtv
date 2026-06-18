@@ -629,13 +629,13 @@
     {
       "name": "范明明（需开启V6网络）",
       "type": 0,
-      "url": "./lib/3d75a78a0fc7ede372c03598d6d10367.m3u",
+      "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
       "playerType": 2
     },
     {
       "name": "世界杯",
       "type": 0,
-      "url": "./lib/fwc.m3u",
+      "url": "http://82.156.243.185:33389/fwc.m3u",
       "playerType": 2
     },
     {
