@@ -620,10 +620,10 @@
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
+        {
       "name": "Kimentanm",
       "type": 0,
-      "url": "./lib/iptv.m3u",
+      "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "playerType": 2
     },
     {
@@ -641,7 +641,7 @@
     {
       "name": "虎牙一起看",
       "type": 0,
-      "url": "./lib/huyayqk.m3u",
+      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
       "playerType": 2,
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
@@ -649,7 +649,7 @@
     {
       "name": "斗鱼一起看",
       "type": 0,
-      "url": "./lib/douyuyqk.m3u",
+      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
       "playerType": 2,
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
@@ -657,7 +657,7 @@
     {
       "name": "B站直播",
       "type": 0,
-      "url": "./lib/bililive.m3u",
+      "url": "https://sub.ottiptv.cc/bililive.m3u",
       "playerType": 2,
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
@@ -665,7 +665,7 @@
     {
       "name": "YY轮播",
       "type": 0,
-      "url": "./lib/yylunbo.m3u",
+      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
       "playerType": 2,
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
